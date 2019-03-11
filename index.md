@@ -1,5 +1,6 @@
 ---
-title: cv
----
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-[![Build Status](https://travis-ci.com/daveio/cv.dave.io.svg?branch=master)](https://travis-ci.com/daveio/cv.dave.io)
+layout: home
+---
