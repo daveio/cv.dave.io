@@ -22,8 +22,8 @@ title: cv.dave.io
 email: dave@dave.io
 description: >- # this means to ignore newlines until "baseurl:"
   Dave's CV
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://cv.dave.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://cv.dave.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: syn
 github_username: daveio
 
