@@ -28,7 +28,7 @@ twitter_username: syn
 github_username: daveio
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 # Exclude from processing.
